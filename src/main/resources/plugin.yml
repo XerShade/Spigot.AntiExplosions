@@ -1,0 +1,6 @@
+name: AntiExplosions
+version: ${project.version}
+main: ca.xershade.antiexplosions.AntiExplosions
+authors: [XerShade]
+description: A small simple plugin that disables explosions in minecraft.
+website: http://www.xershade.ca/
