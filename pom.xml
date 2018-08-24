@@ -6,7 +6,7 @@
 
     <groupId>ca.xershade</groupId>
     <artifactId>AntiExplosions</artifactId>
-    <version>1.13</version>
+    <version>1.13-20180824</version>
     <packaging>jar</packaging>
 
     <name>AntiExplosions</name>
